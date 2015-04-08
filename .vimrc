@@ -63,7 +63,7 @@ set tags=tags;/			" Search recursively up for tags
 " NOTE: 
 " These key maps use multiple keystrokes (2 or 3 keys).  If you find that vim
 " keeps timing you out before you can complete them, try changing your timeout
-" settings, as explained below.
+" settings, as explained below.   
 "
 " Happy cscoping,
 "
